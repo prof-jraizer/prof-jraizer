@@ -1,4 +1,4 @@
-Professor Josué Raizer por aqui! 
+# Professor Josué por aqui!  
 Eu uso essa conta para os repositórios das minhas atividades docentes na Faculdade de Ciência Biológicas e Ambientais na Universidade Federal da Grande Dourados.  
 Atualmente leciono bioestatística para estudantes dos cursos de graduação em Ciências Biológicas, Gestão Ambiental e Biotecnologia.  
 Na pós-graduação ministro cursos de introdução ao R, estatística e análises multivariadas.  
